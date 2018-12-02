@@ -1,0 +1,3 @@
+# EventGridTestApp
+
+Exploring EventGrid
